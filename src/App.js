@@ -22,7 +22,7 @@ class Input extends Component {
   render() {
     return (
       <div>
-        <input type="text" ref="newText" className="txtbox" placeholder="Task" aria-label="Recipient's username" aria-describedby="basic-addon2" />
+        <input type="text" ref="newText" className="txtbox" placeholder="Task" />
         <input type="button" value="Add" className="addbtn" onClick={() => this.addTodo()} />
       </div>
     )
