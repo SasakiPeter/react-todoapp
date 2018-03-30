@@ -1,0 +1,41 @@
+section{
+  display:flex;
+  justify-content: center;
+  background-color: #18b394;
+  padding:3em 0;
+}
+.App{
+  width:400px;
+  background-color: white;
+  padding:0 0.5em;
+}
+.txtbox{
+  width:80%;
+  box-sizing:border-box;
+  border-color:#16a085;
+}
+.addbtn{
+  width:20%;
+  box-sizing:border-box;
+  background-color:#16a085;
+  color:white;
+}
+.dltbtn{
+  width:20%;
+  box-sizing:border-box;
+  background-color:#a02616;
+  color:white;
+}
+h1{
+  color: #18b394;
+}
+li{
+  list-style: none;
+  display:flex;
+  justify-content:space-between;
+  margin:0.5em 0;
+  padding:0 0 0 0.5em;
+}
+ul{
+  padding:0;
+}
