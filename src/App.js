@@ -34,7 +34,7 @@ class App extends Component {
     super(props);
     this.state = {
       todo: [
-        { title: 'ti-idf' },
+        { title: 'tf-idf' },
         { title: 'Django' },
         { title: 'React' },
         { title: 'Vue.js' }

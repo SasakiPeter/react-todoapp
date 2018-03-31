@@ -1,7 +1,6 @@
 section{
   display:flex;
   justify-content: center;
-  background-color: #18b394;
   padding:3em 0;
 }
 .App{
